@@ -1,17 +1,17 @@
 # Manufacturing Analytics Journey
 
 ## About Me
-I am a **Manufacturing Supervisor with 20+ years of experience** in production operations, shift management, and process optimization. I am currently transitioning into a **Data Analyst** role, combining my deep domain expertise in manufacturing with modern data analytics skills.
+I am a **Manufacturing Supervisor with 15+ years of experience** in production operations, shift management, and process optimization. I am currently transitioning into a **Data Analyst** role, combining my deep domain expertise in manufacturing with modern data analytics skills.
 
-**Current Role:** Manufacturing Supervisor, [Industry Sector]
-**Years in Manufacturing:** 20+
-**Location:** [Your City/Region]
+**Current Role:** Manufacturing Supervisor  
+**Years in Manufacturing:** 15+  
+**Location:** Malaysia
 
 ## Why This Journey?
 I have spent my career on the shop floor, managing teams, reducing downtime, and improving quality. I now want to scale that impact by using data to drive decisions. I understand the operational reality behind the numbers. Now I am building the technical skills to extract, analyze, and communicate those insights effectively.
 
 ## What I Am Building
-This repository documents my 12-week structured learning path. Every project here is grounded in real manufacturing problems—OEE, downtime analysis, defect Pareto, and shift performance.
+This repository documents my structured 12-week learning path. Every project here is grounded in real manufacturing problems—OEE, downtime analysis, defect Pareto, and shift performance.
 
 ### Learning Roadmap
 | Month | Focus | Key Skills |
@@ -23,7 +23,7 @@ This repository documents my 12-week structured learning path. Every project her
 ## Tools & Technologies
 - **SQL** — Data extraction and manipulation
 - **Python (Pandas, NumPy)** — Analysis and cleaning
-- **Power BI / Tableau** — Visualization and dashboards
+- **Power BI** — Visualization and dashboards
 - **Excel** — Rapid analysis and stakeholder communication
 - **Git & GitHub** — Version control and portfolio management
 
@@ -38,11 +38,12 @@ This repository documents my 12-week structured learning path. Every project her
 | MTBF/MTTR Calculator | Python functions to calculate reliability metrics from timestamped logs | Python | 🔜 Planned |
 
 ## Weekly Progress Log
-- **Week 1 (Mar 30 - Apr 5):** GitHub setup. SQL basics: SELECT, FROM, WHERE. [See log](00_Learning_Log/weekly_notes.md)
+- **Week 1 (Mar 30 - Apr 5):** GitHub setup complete. SQL basics starting.
+- [View full learning log](00_Learning_Log/weekly_notes.md)
 
 ## Connect With Me
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your professional email]
+- **GitHub:** [tana-analytics](https://github.com/tana-analytics)
+- **Email:** [tana.analytics85@gmail.com]
 
 ---
 

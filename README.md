@@ -1,10 +1,10 @@
 # Manufacturing Analytics Journey
 
 ## About Me
-I am a **Manufacturing Supervisor with 15+ years of experience** in production operations, shift management, and process optimization. I am currently transitioning into a **Data Analyst** role, combining my deep domain expertise in manufacturing with modern data analytics skills.
+I am a **Manufacturing Supervisor with 20+ years of experience** in production operations, shift management, and process optimization. I am currently transitioning into a **Data Analyst** role, combining my deep domain expertise in manufacturing with modern data analytics skills.
 
 **Current Role:** Manufacturing Supervisor  
-**Years in Manufacturing:** 15+  
+**Years in Manufacturing:** 20+  
 **Location:** Malaysia
 
 ## Why This Journey?

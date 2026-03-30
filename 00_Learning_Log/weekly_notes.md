@@ -2,19 +2,24 @@
 
 ## Week 1 (Mar 30 - Apr 5): GitHub & SQL Foundations
 
+### Status
+✅ GitHub account created  
+✅ Repository structure established  
+⏳ SQL basics - in progress
+
 ### What I Learned This Week
 - GitHub account setup and repository structure
+- Professional README documentation
 - SQL basics: SELECT, FROM, WHERE, LIMIT
-- Filtering data to answer specific business questions
 
 ### Code Snippet of the Week
 ```sql
--- Example: Finding shifts with production below target
+-- Example: Basic query structure for production data
 SELECT 
-    shift_id,
     production_date,
+    shift,
     total_units,
-    target_units
+    defect_count
 FROM production_log
-WHERE total_units < target_units
+WHERE production_date >= '2026-01-01'
 ORDER BY production_date DESC;

@@ -13,15 +13,13 @@
 - SQL basics: SELECT, FROM, WHERE, LIMIT
 
 ### Code Snippet of the Week
-### Day 1 (Mar 31): SQL Basics
-
-**Concepts Learned:**
-- SELECT and SELECT * (choosing columns)
-- WHERE (filtering rows)
-- ORDER BY (sorting)
-- LIMIT (limiting results)
-
-**Queries I Ran:**
 ```sql
--- Filtering to see only M03 performance
-SELECT * FROM production_log WHERE machine_id = 'M03';
+-- Example: Basic query structure for production data
+SELECT 
+    production_date,
+    shift,
+    total_units,
+    defect_count
+FROM production_log
+WHERE production_date >= '2026-01-01'
+ORDER BY production_date DESC;

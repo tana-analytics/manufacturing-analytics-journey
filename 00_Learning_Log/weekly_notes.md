@@ -53,3 +53,39 @@ SQL just gives me a structured way to do that with data.
 
 **Next:**
 Learn GROUP BY to calculate totals and averages by shift and machine
+
+
+### Day 2 (Apr 1): GROUP BY & Aggregations
+
+**Concepts Learned:**
+- GROUP BY — grouping rows by a column value
+- COUNT(*) — counting records in each group
+- SUM() — adding up values in a group
+- AVG() — calculating averages
+- ROUND() — formatting decimal numbers
+
+**Exercises Completed:**
+1. Counted records per machine
+2. Calculated total downtime by shift
+3. Found average units produced per machine
+4. Calculated defect rate percentage per machine
+
+**Error Encountered & Fixed:**
+- Forgot second argument in ROUND() function
+- Added `, 2` to specify 2 decimal places
+- Moved closing parenthesis before AS
+
+**Results from Exercise 4:**
+- M03: 5.66% defect rate (worst)
+- M01: 2.31% defect rate
+- M02: 1.16% defect rate (best)
+
+**Files Uploaded:**
+- `01_SQL/aggregation_exercises.sql`
+
+**Reflection:**
+SQL syntax requires precision — missing parentheses or arguments causes errors. 
+This is similar to machine parameters; if one value is missing, the process fails.
+
+**Next Topic:**
+Combining WHERE with GROUP BY (filtering before grouping)

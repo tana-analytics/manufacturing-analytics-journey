@@ -110,3 +110,26 @@ Always verify your data before analysis. Duplicates can completely change result
 
 **Files Uploaded:**
 - `01_SQL/where_groupby_exercises.sql`
+
+
+### Day 4 (Apr 5): HAVING — Filtering After Grouping
+
+**Key Difference Learned:**
+- WHERE filters rows BEFORE grouping
+- HAVING filters groups AFTER aggregation
+
+**Exercises Completed:**
+1. Machines with total downtime > 300 min → M03 only
+2. Shifts with > 3 downtime events → [Your result]
+3. Machines with avg defects > 30 → [Your result]
+4. Night shift machines with total units < 4500 → [Your result]
+
+**Files Uploaded:**
+- `01_SQL/having_exercises.sql`
+
+**Next Topic:**
+Combining WHERE and HAVING in real manufacturing scenarios
+
+
+
+

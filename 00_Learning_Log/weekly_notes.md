@@ -89,3 +89,24 @@ This is similar to machine parameters; if one value is missing, the process fail
 
 **Next Topic:**
 Combining WHERE with GROUP BY (filtering before grouping)
+
+
+### Day 3 (Apr 5): WHERE with GROUP BY (Completed)
+
+**Data Cleaning Lesson:**
+- Discovered duplicate rows in my database (54 rows instead of 18)
+- Learned that DISTINCT * doesn't work when unique IDs exist
+- Cleaned data by excluding the primary key column
+- Final clean dataset: 18 rows
+
+**Exercises Completed (Clean Data):**
+1. Total defects > 30 per machine: M01=125, M03=405
+2. Average Day shift units: M01=1483.3, M02=1600.0, M03=1223.3
+3. Night downtime for M01/M02: M01=270 min, M02=75 min
+4. Total units for Mar 2-3: M01=5,760, M02=6,200, M03=4,750
+
+**Key Takeaway:**
+Always verify your data before analysis. Duplicates can completely change results.
+
+**Files Uploaded:**
+- `01_SQL/where_groupby_exercises.sql`

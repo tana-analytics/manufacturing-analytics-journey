@@ -131,5 +131,23 @@ Always verify your data before analysis. Duplicates can completely change result
 Combining WHERE and HAVING in real manufacturing scenarios
 
 
+### Week 2, Day 1 (Apr 5): JOINs - Connecting Tables
+
+**Concepts Learned:**
+- INNER JOIN: Only matching records from both tables
+- LEFT JOIN: All records from left table, matching from right
+- JOIN conditions using ON with multiple columns
+
+**Key Insight:**
+JOINs allow me to answer "why" questions — linking production output to downtime events.
+
+**Exercises Completed:**
+1. INNER JOIN production_log with downtime_events
+2. LEFT JOIN to keep all production records
+3. JOIN with GROUP BY to aggregate by machine
+
+**Files Uploaded:**
+- `01_SQL/join_exercises.sql`
+
 
 
